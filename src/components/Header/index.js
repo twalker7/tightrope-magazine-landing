@@ -22,6 +22,7 @@ function Header(){
     </Grid>
             </AppBar>
 
+        <NAv></NAv>
         </div>
     );
 }
