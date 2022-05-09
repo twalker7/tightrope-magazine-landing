@@ -1,8 +1,8 @@
 {
   "name": "tightrope-magazine-landing",
+  "homepage": "https://twalker7.github.io/tightrope-magazine-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://twalker7.github.io/tightrope-magazine-landing",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
