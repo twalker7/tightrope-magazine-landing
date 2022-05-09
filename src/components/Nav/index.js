@@ -9,12 +9,18 @@ return (
                 
                 <Grid container spacing={30} justifyContent="center"  >
                     <Grid item >
-                    <a href="tel:3237870411">  Contact </a>
+                    <a href={()=>false}>Home</a>
             
                     </Grid>
                     <Grid item>
-                       <a>About</a> 
-                    </Grid>                                                                                                                                                                                                                                                                    
+                       <a href={()=> false}>Publications</a> 
+                    </Grid>  
+                    <Grid item>
+                        <a href={()=> false}>About</a>
+                    </Grid>
+                    <Grid item>
+                        <a href={()=> false}>Contact</a>
+                    </Grid>                                                                                                                                                                                                                                                                 
             
                 </Grid>
                         </AppBar>
