@@ -6,7 +6,7 @@ function Content(){
 
     return(
         <div>
-       <h2> hello </h2>   
+       <h2> Content </h2>   
         </div>
     );
 }
