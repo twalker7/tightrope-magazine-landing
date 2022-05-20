@@ -6,7 +6,11 @@ function Content(){
 
     return(
         <div>
-       <h2> Content </h2>   
+    
+       <div className="contentContainer">
+       <h2 className="contentHeader"> Content </h2> 
+       <div className="contentBody"> </div> 
+       </div> 
         </div>
     );
 }

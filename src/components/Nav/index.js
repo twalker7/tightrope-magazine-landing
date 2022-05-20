@@ -5,7 +5,7 @@ import AppBar from '@mui/material/AppBar';
 function Nav(){
 return (
     <div>
-            <AppBar className="appBar">
+            <AppBar >
                 
                 <Grid container spacing={30} justifyContent="center"  >
                     <Grid item >
