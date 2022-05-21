@@ -8,7 +8,7 @@ function Content(){
         <div>
     
             <div className="contentContainer" >
-                    <h1 className="contentHeader"> Content </h1> 
+                    <h1 className="contentHeader"> Tightrope Magazine </h1> 
                     <div className="contentBody">
                         <Grid container flexDirection="row" spacing={0}> 
                             <Grid item lg={2}>
