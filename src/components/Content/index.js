@@ -12,19 +12,31 @@ function Content(){
                     <div className="contentBody">
                         <Grid container flexDirection="row" spacing={0}> 
                             <Grid item lg={2}>
-                                <div className="columnContain">
+                                <section className="columnContain">
                                     <h3> title</h3>
-                                </div>
+                                    <div className="sideColumnBody"> 
+
+                                    </div>
+                                </section>
                             </Grid>
                             <Grid item lg={8}>
-                                <div className="columnContain">
-                                    <h2> title</h2>
-                                </div>
+                                <section className="columnContain">
+                                    <h2> Main Story/jumbotron cover</h2>
+                                    <div className ="mainColumnBody"> 
+
+                                    </div>
+                                    <div>
+
+                                    </div>
+                                </section>
                             </Grid>
                             <Grid item lg={2}>
-                                <div className="columnContain">
+                                <section className="columnContain">
                                     <h3> title</h3>
-                                </div>
+                                    <div className="sideColumnBody">
+
+                                    </div>
+                                </section>
                             </Grid>
                              
                         </Grid>
