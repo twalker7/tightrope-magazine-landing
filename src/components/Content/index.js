@@ -11,17 +11,18 @@ function Content(){
                     <h1 className="contentHeader"> Tightrope Magazine </h1> 
                     <div className="contentBody">
                         <Grid container flexDirection="row" spacing={0}> 
-                            <Grid item lg={2}>
+                            <Grid item lg={3}>
                                 <section className="columnContain">
                                     <div className="columnTitleDiv"> 
                                         <h3> title</h3>
                                     </div>
                                     <div className="sideColumnBody"> 
-                                        <p> paragraph </p>
+                                        <img className ="sideColumnThumbnail" src=""/>
+                                        <p> paragraph content </p>
                                     </div>
                                 </section>
                             </Grid>
-                            <Grid item lg={8}>
+                            <Grid item lg={6}>
                                 <section className="columnContain">
                                     <div className="columnTitleDiv">
                                         <h2> Main Story/jumbotron cover</h2>
@@ -34,13 +35,16 @@ function Content(){
                                     </div>
                                 </section>
                             </Grid>
-                            <Grid item lg={2}>
+                            <Grid item lg={3}>
                                 <section className="columnContain">
                                 <div className="columnTitleDiv">
                                     <h3> title</h3>
                                 </div>
                                     <div className="sideColumnBody">
-
+                                    <img className ="sideColumnThumbnail" src=""/>
+                                    
+                        
+                                        <p> paragraph content</p>
                                     </div>
                                 </section>
                             </Grid>
