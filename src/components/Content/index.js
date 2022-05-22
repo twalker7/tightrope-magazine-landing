@@ -13,15 +13,19 @@ function Content(){
                         <Grid container flexDirection="row" spacing={0}> 
                             <Grid item lg={2}>
                                 <section className="columnContain">
-                                    <h3> title</h3>
+                                    <div className="columnTitleDiv"> 
+                                        <h3> title</h3>
+                                    </div>
                                     <div className="sideColumnBody"> 
-
+                                        <p> paragraph </p>
                                     </div>
                                 </section>
                             </Grid>
                             <Grid item lg={8}>
                                 <section className="columnContain">
-                                    <h2> Main Story/jumbotron cover</h2>
+                                    <div className="columnTitleDiv">
+                                        <h2> Main Story/jumbotron cover</h2>
+                                    </div>
                                     <div className ="mainColumnBody"> 
 
                                     </div>
@@ -32,7 +36,9 @@ function Content(){
                             </Grid>
                             <Grid item lg={2}>
                                 <section className="columnContain">
+                                <div className="columnTitleDiv">
                                     <h3> title</h3>
+                                </div>
                                     <div className="sideColumnBody">
 
                                     </div>

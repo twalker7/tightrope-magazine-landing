@@ -56,13 +56,17 @@
 }
 
 .sideColumnBody{
-  border: blue dashed 3px;
+  border: blue dashed 2px;
   height: 350px;
   background-color:pink;
 } 
 
 .mainColumnBody{
-  border: blue dashed 3px;
+  border: blue dashed 2px;
   height: 350px;
   background-color:pink;
+}
+
+.columnTitleDiv{
+  height: 30px;
 }
