@@ -1,11 +1,10 @@
 import React from 'react'; 
 import Grid from '@mui/material/Grid';
-import AppBar from '@mui/material/AppBar';
 
 function Nav(){
 return (
     <div>
-            <AppBar >
+            <div className="navBar">
                 
                 <Grid container spacing={30} justifyContent="center"  >
                     <Grid item >
@@ -23,7 +22,7 @@ return (
                     </Grid>                                                                                                                                                                                                                                                                 
             
                 </Grid>
-                        </AppBar>
+                        </div>
     </div>
 );
 }

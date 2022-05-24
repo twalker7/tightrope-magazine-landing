@@ -26,10 +26,9 @@
 
 
 .contentContainer{
-  margin-top:25px;
+  
   border: 5px yellow dashed;
   height:90vh;
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -74,4 +73,10 @@
 
 .columnTitleDiv{
   height: 35px;
+}
+
+
+@media only screen and (max-width: 600px){
+
+  
 }
