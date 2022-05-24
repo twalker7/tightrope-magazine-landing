@@ -23,7 +23,9 @@
   color: #61dafb;
 }
 
-
+.navBar{
+  border: black 5px dashed;
+}
 
 .contentContainer{
   
@@ -55,24 +57,24 @@
 }
 
 .sideColumnBody{
-  border: blue dashed 2px;
-  height: 350px;
+  border: #0000ff dashed 2px;
+  height: 45vh;
   background-color:pink;
 } 
 .sideColumnThumbnail{
   border: black 5px solid;
-  height: 200px;
-  width: 200px;
-}
+  height: 25vh;
+  width: 13vw;
+} 
 
 .mainColumnBody{
   border: blue dashed 2px;
-  height: 350px;
+  height: 45vh;
   background-color:pink;
 }
 
 .columnTitleDiv{
-  height: 35px;
+  height: 5vh
 }
 
 
