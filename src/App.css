@@ -50,11 +50,7 @@
   border: green 2px dashed;
 }
 
-.footer{
-  background-color: black; 
-  color: white;
-  height:5vh;
-}
+
 
 .sideColumnBody{
   border: #0000ff dashed 2px;
@@ -75,6 +71,12 @@
 
 .columnTitleDiv{
   height: 5vh
+}
+
+.footer{
+  background-color: black; 
+  color: white;
+  height:5vh;
 }
 
 

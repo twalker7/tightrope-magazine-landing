@@ -6,7 +6,7 @@ return (
     <div>
             <div className="navBar">
                 
-                <Grid container spacing={30} justifyContent="center"  >
+                <Grid container spacing={5} justifyContent="center"  >
                     <Grid item >
                     <a href={()=>false}>Home</a>
             
