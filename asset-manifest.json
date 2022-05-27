@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tightrope-magazine-landing/static/css/main.28cb0736.css",
-    "main.js": "/tightrope-magazine-landing/static/js/main.1576c2b4.js",
+    "main.css": "/tightrope-magazine-landing/static/css/main.7d48d302.css",
+    "main.js": "/tightrope-magazine-landing/static/js/main.7d652ee9.js",
     "static/js/787.7a06d7a8.chunk.js": "/tightrope-magazine-landing/static/js/787.7a06d7a8.chunk.js",
     "index.html": "/tightrope-magazine-landing/index.html",
-    "main.28cb0736.css.map": "/tightrope-magazine-landing/static/css/main.28cb0736.css.map",
-    "main.1576c2b4.js.map": "/tightrope-magazine-landing/static/js/main.1576c2b4.js.map",
+    "main.7d48d302.css.map": "/tightrope-magazine-landing/static/css/main.7d48d302.css.map",
+    "main.7d652ee9.js.map": "/tightrope-magazine-landing/static/js/main.7d652ee9.js.map",
     "787.7a06d7a8.chunk.js.map": "/tightrope-magazine-landing/static/js/787.7a06d7a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28cb0736.css",
-    "static/js/main.1576c2b4.js"
+    "static/css/main.7d48d302.css",
+    "static/js/main.7d652ee9.js"
   ]
 }
